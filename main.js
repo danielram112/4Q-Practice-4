@@ -1,4 +1,4 @@
-Function OPENUP(){
+function OPENUP(){
     let carCounter = 18;
     const maxCars = 25;
 
@@ -8,4 +8,5 @@ Function OPENUP(){
     }
     
     Window.alert("Fullparking");
+    
 } 
